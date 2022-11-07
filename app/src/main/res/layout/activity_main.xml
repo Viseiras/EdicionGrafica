@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/background"
@@ -8,6 +9,7 @@
     android:stretchColumns="*"
     android:weightSum="175"
     app:layout_constraintWidth_max="100dp">
+
 
     <TableRow
         android:id="@+id/VisualizerRow"
